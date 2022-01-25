@@ -1,0 +1,211 @@
+2022-01-24 12:01:484 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 12:01:353 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 13:01:854 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 13:01:453 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 13:01:649 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (c124d8daa06fd209a58dbb7b7259b4a5)] -> id: login-button]
+2022-01-24 13:01:428 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 13:01:28 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 13:01:242 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (6b236a59edca04255fb2fb55d07d77e5)] -> id: login-button]
+2022-01-24 13:01:969 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 13:01:510 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 13:01:841 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (c1b44f24b36ce59dd8d75431053da0a7)] -> id: login-button]
+2022-01-24 13:01:911 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 13:01:511 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 13:01:900 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (0a225b91666c354ad712ae7613c1f66f)] -> id: login-button]
+2022-01-24 14:01:786 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 14:01:973 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 14:01:223 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (677ec5fc150f8cda193aeb53607d333f)] -> id: login-button]
+2022-01-24 14:01:886 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:06 INFO  InventoryPage :43 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (677ec5fc150f8cda193aeb53607d333f)] -> link text: Sauce Labs Onesie]
+2022-01-24 14:01:115 INFO  InventoryItemPage :37 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (677ec5fc150f8cda193aeb53607d333f)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 14:01:201 INFO  InventoryItemPage :42 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (677ec5fc150f8cda193aeb53607d333f)] -> id: back-to-products]
+2022-01-24 14:01:564 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:713 INFO  InventoryPage :48 - Select the costliest item:- Proxy element for: DefaultElementLocator 'By.linkText: Sauce Labs Fleece Jacket'
+2022-01-24 14:01:754 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 14:01:938 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 14:01:144 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (9ad0ac8e14a632ea7e207a212935e18e)] -> id: login-button]
+2022-01-24 14:01:853 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:976 INFO  InventoryPage :43 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (9ad0ac8e14a632ea7e207a212935e18e)] -> link text: Sauce Labs Onesie]
+2022-01-24 14:01:78 INFO  InventoryItemPage :37 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (9ad0ac8e14a632ea7e207a212935e18e)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 14:01:167 INFO  InventoryItemPage :42 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (9ad0ac8e14a632ea7e207a212935e18e)] -> id: back-to-products]
+2022-01-24 14:01:520 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:651 INFO  InventoryPage :48 - Select the costliest item:- Proxy element for: DefaultElementLocator 'By.linkText: Sauce Labs Fleece Jacket'
+2022-01-24 14:01:483 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 14:01:637 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 14:01:870 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (2bb8183f20b21cb4fa686c0043a3e12b)] -> id: login-button]
+2022-01-24 14:01:448 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:539 INFO  InventoryPage :43 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (2bb8183f20b21cb4fa686c0043a3e12b)] -> link text: Sauce Labs Onesie]
+2022-01-24 14:01:611 INFO  InventoryItemPage :38 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (2bb8183f20b21cb4fa686c0043a3e12b)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 14:01:683 INFO  InventoryItemPage :43 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (2bb8183f20b21cb4fa686c0043a3e12b)] -> xpath: //div[@class='left_component']//button]
+2022-01-24 14:01:845 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:795 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 14:01:372 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 14:01:788 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (b886c28fe3ef0111d2ee0acd599123f8)] -> id: login-button]
+2022-01-24 14:01:301 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:405 INFO  InventoryPage :43 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (b886c28fe3ef0111d2ee0acd599123f8)] -> link text: Sauce Labs Onesie]
+2022-01-24 14:01:510 INFO  InventoryItemPage :38 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (b886c28fe3ef0111d2ee0acd599123f8)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 14:01:647 INFO  InventoryItemPage :44 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (b886c28fe3ef0111d2ee0acd599123f8)] -> xpath: //div[@class='left_component']//button]
+2022-01-24 14:01:93 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:213 INFO  InventoryPage :48 - Select the costliest item:- Proxy element for: DefaultElementLocator 'By.linkText: Sauce Labs Fleece Jacket'
+2022-01-24 14:01:121 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 14:01:805 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 14:01:16 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (68748b46bc019748140f552dd0855576)] -> id: login-button]
+2022-01-24 14:01:387 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:492 INFO  InventoryPage :43 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (68748b46bc019748140f552dd0855576)] -> link text: Sauce Labs Onesie]
+2022-01-24 14:01:563 INFO  InventoryItemPage :39 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (68748b46bc019748140f552dd0855576)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 14:01:611 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 14:01:919 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 14:01:135 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (a22fc6ff353e702d21b8e1bbc077f025)] -> id: login-button]
+2022-01-24 14:01:703 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:788 INFO  InventoryPage :43 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (a22fc6ff353e702d21b8e1bbc077f025)] -> link text: Sauce Labs Onesie]
+2022-01-24 14:01:850 INFO  InventoryItemPage :39 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (a22fc6ff353e702d21b8e1bbc077f025)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 14:01:436 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 14:01:641 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 14:01:987 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (8a3fa7b0ca89e58c5d83b775ded9b614)] -> id: login-button]
+2022-01-24 14:01:567 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:656 INFO  InventoryPage :43 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (8a3fa7b0ca89e58c5d83b775ded9b614)] -> link text: Sauce Labs Onesie]
+2022-01-24 14:01:732 INFO  InventoryItemPage :39 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (8a3fa7b0ca89e58c5d83b775ded9b614)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 14:01:897 INFO  InventoryItemPage :52 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (8a3fa7b0ca89e58c5d83b775ded9b614)] -> xpath: //div[@class='left_component']//button]
+2022-01-24 14:01:61 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:203 INFO  InventoryPage :48 - Select the costliest item:- Proxy element for: DefaultElementLocator 'By.linkText: Sauce Labs Fleece Jacket'
+2022-01-24 14:01:755 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 14:01:60 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 14:01:302 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (c45d1a35680afdd080a649c9f3406347)] -> id: login-button]
+2022-01-24 14:01:953 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:83 INFO  InventoryPage :43 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (c45d1a35680afdd080a649c9f3406347)] -> link text: Sauce Labs Onesie]
+2022-01-24 14:01:196 INFO  InventoryItemPage :40 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (c45d1a35680afdd080a649c9f3406347)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 14:01:344 INFO  InventoryItemPage :53 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (c45d1a35680afdd080a649c9f3406347)] -> xpath: //button[@id='back-to-products']]
+2022-01-24 14:01:523 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:654 INFO  InventoryPage :48 - Select the costliest item:- Proxy element for: DefaultElementLocator 'By.linkText: Sauce Labs Fleece Jacket'
+2022-01-24 14:01:233 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 14:01:200 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 14:01:358 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (615f1bb2c3511f083ff2213a9a09214c)] -> id: login-button]
+2022-01-24 14:01:842 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:984 INFO  InventoryPage :43 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (615f1bb2c3511f083ff2213a9a09214c)] -> link text: Sauce Labs Onesie]
+2022-01-24 14:01:60 INFO  InventoryItemPage :40 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (615f1bb2c3511f083ff2213a9a09214c)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 14:01:195 INFO  InventoryItemPage :53 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (615f1bb2c3511f083ff2213a9a09214c)] -> xpath: //button[@id='back-to-products']]
+2022-01-24 14:01:358 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 14:01:528 INFO  InventoryPage :48 - Select the costliest item:- Proxy element for: DefaultElementLocator 'By.linkText: Sauce Labs Fleece Jacket'
+2022-01-24 19:01:122 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 19:01:566 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 19:01:740 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (e0a90ce3d2ee99764171a5381ce936eb)] -> id: login-button]
+2022-01-24 19:01:248 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:418 INFO  InventoryPage :43 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (e0a90ce3d2ee99764171a5381ce936eb)] -> link text: Sauce Labs Onesie]
+2022-01-24 19:01:534 INFO  InventoryItemPage :40 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (e0a90ce3d2ee99764171a5381ce936eb)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 19:01:709 INFO  InventoryItemPage :53 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (e0a90ce3d2ee99764171a5381ce936eb)] -> xpath: //button[@id='back-to-products']]
+2022-01-24 19:01:898 INFO  InventoryPage :38 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:989 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 19:01:922 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 19:01:273 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (3fdb3903ea865b93b5d28ab52364798f)] -> id: login-button]
+2022-01-24 19:01:946 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:132 INFO  InventoryPage :44 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (3fdb3903ea865b93b5d28ab52364798f)] -> link text: Sauce Labs Onesie]
+2022-01-24 19:01:314 INFO  InventoryItemPage :40 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (3fdb3903ea865b93b5d28ab52364798f)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 19:01:449 INFO  InventoryItemPage :53 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (3fdb3903ea865b93b5d28ab52364798f)] -> xpath: //button[@id='back-to-products']]
+2022-01-24 19:01:637 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:579 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 19:01:446 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 19:01:851 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (8d818092510bcc48059f6b61f29729b4)] -> id: login-button]
+2022-01-24 19:01:547 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:700 INFO  InventoryPage :44 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (8d818092510bcc48059f6b61f29729b4)] -> link text: Sauce Labs Onesie]
+2022-01-24 19:01:832 INFO  InventoryItemPage :40 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (8d818092510bcc48059f6b61f29729b4)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 19:01:964 INFO  InventoryItemPage :53 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (8d818092510bcc48059f6b61f29729b4)] -> xpath: //button[@id='back-to-products']]
+2022-01-24 19:01:150 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:239 INFO  InventoryPage :49 - Select the costliest item:- [[ChromeDriver: chrome on WINDOWS (8d818092510bcc48059f6b61f29729b4)] -> xpath: //a[@id='item_5_title_link']]
+2022-01-24 19:01:352 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 19:01:320 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 19:01:701 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (693361ebbd1865bcfcd1af85fba6747b)] -> id: login-button]
+2022-01-24 19:01:258 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:338 INFO  InventoryPage :44 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (693361ebbd1865bcfcd1af85fba6747b)] -> link text: Sauce Labs Onesie]
+2022-01-24 19:01:444 INFO  InventoryItemPage :40 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (693361ebbd1865bcfcd1af85fba6747b)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 19:01:559 INFO  InventoryItemPage :53 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (693361ebbd1865bcfcd1af85fba6747b)] -> xpath: //button[@id='back-to-products']]
+2022-01-24 19:01:734 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:825 INFO  InventoryPage :49 - Select the costliest item:- [[ChromeDriver: chrome on WINDOWS (693361ebbd1865bcfcd1af85fba6747b)] -> link text: Sauce Labs Fleece Jacket]
+2022-01-24 19:01:838 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 19:01:470 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 19:01:779 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (d5534b97f3e7006601b4bf93bfc2c049)] -> id: login-button]
+2022-01-24 19:01:364 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:476 INFO  InventoryPage :44 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (d5534b97f3e7006601b4bf93bfc2c049)] -> link text: Sauce Labs Onesie]
+2022-01-24 19:01:587 INFO  InventoryItemPage :42 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (d5534b97f3e7006601b4bf93bfc2c049)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 19:01:760 INFO  InventoryItemPage :60 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (d5534b97f3e7006601b4bf93bfc2c049)] -> xpath: //button[@id='back-to-products']]
+2022-01-24 19:01:952 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:42 INFO  InventoryPage :49 - Select the costliest item:- [[ChromeDriver: chrome on WINDOWS (d5534b97f3e7006601b4bf93bfc2c049)] -> link text: Sauce Labs Fleece Jacket]
+2022-01-24 19:01:114 INFO  InventoryItemPage :47 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (d5534b97f3e7006601b4bf93bfc2c049)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-01-24 19:01:201 INFO  InventoryItemPage :65 - Click on shopping cart:- [[ChromeDriver: chrome on WINDOWS (d5534b97f3e7006601b4bf93bfc2c049)] -> xpath: //div[@id='shopping_cart_container']//a]
+2022-01-24 19:01:625 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 19:01:48 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 19:01:308 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (c845ef7a964a73a620acdd05921fb399)] -> id: login-button]
+2022-01-24 19:01:06 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:138 INFO  InventoryPage :44 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (c845ef7a964a73a620acdd05921fb399)] -> link text: Sauce Labs Onesie]
+2022-01-24 19:01:252 INFO  InventoryItemPage :42 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (c845ef7a964a73a620acdd05921fb399)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 19:01:380 INFO  InventoryItemPage :60 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (c845ef7a964a73a620acdd05921fb399)] -> xpath: //button[@id='back-to-products']]
+2022-01-24 19:01:780 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:846 INFO  InventoryPage :49 - Select the costliest item:- [[ChromeDriver: chrome on WINDOWS (c845ef7a964a73a620acdd05921fb399)] -> link text: Sauce Labs Fleece Jacket]
+2022-01-24 19:01:921 INFO  InventoryItemPage :47 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (c845ef7a964a73a620acdd05921fb399)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-01-24 19:01:997 INFO  InventoryItemPage :65 - Click on shopping cart:- [[ChromeDriver: chrome on WINDOWS (c845ef7a964a73a620acdd05921fb399)] -> xpath: //div[@id='shopping_cart_container']//a]
+2022-01-24 19:01:345 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 19:01:100 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 19:01:487 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (21d5a9d17f2795f2ecd8d326c91e3862)] -> id: login-button]
+2022-01-24 19:01:204 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:381 INFO  InventoryPage :44 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (21d5a9d17f2795f2ecd8d326c91e3862)] -> link text: Sauce Labs Onesie]
+2022-01-24 19:01:483 INFO  InventoryItemPage :42 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (21d5a9d17f2795f2ecd8d326c91e3862)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 19:01:626 INFO  InventoryItemPage :60 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (21d5a9d17f2795f2ecd8d326c91e3862)] -> xpath: //button[@id='back-to-products']]
+2022-01-24 19:01:827 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:918 INFO  InventoryPage :49 - Select the costliest item:- [[ChromeDriver: chrome on WINDOWS (21d5a9d17f2795f2ecd8d326c91e3862)] -> link text: Sauce Labs Fleece Jacket]
+2022-01-24 19:01:17 INFO  InventoryItemPage :47 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (21d5a9d17f2795f2ecd8d326c91e3862)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-01-24 19:01:116 INFO  InventoryItemPage :65 - Click on shopping cart:- [[ChromeDriver: chrome on WINDOWS (21d5a9d17f2795f2ecd8d326c91e3862)] -> xpath: //div[@id='shopping_cart_container']//a]
+2022-01-24 19:01:208 INFO  CartPage :27 - Click on check out button:- [[ChromeDriver: chrome on WINDOWS (21d5a9d17f2795f2ecd8d326c91e3862)] -> xpath: //button[@id='checkout']]
+2022-01-24 19:01:337 INFO  CheckOutStepOnePage :38 - Send first name:- [[ChromeDriver: chrome on WINDOWS (21d5a9d17f2795f2ecd8d326c91e3862)] -> css selector: #first-name]
+2022-01-24 19:01:471 INFO  CheckOutStepOnePage :44 - Send last name:- [[ChromeDriver: chrome on WINDOWS (21d5a9d17f2795f2ecd8d326c91e3862)] -> css selector: #last-name]
+2022-01-24 19:01:587 INFO  CheckOutStepOnePage :50 - Send last name:- [[ChromeDriver: chrome on WINDOWS (21d5a9d17f2795f2ecd8d326c91e3862)] -> css selector: #postal-code]
+2022-01-24 19:01:692 INFO  CheckOutStepOnePage :56 - Click on continue button:- [[ChromeDriver: chrome on WINDOWS (21d5a9d17f2795f2ecd8d326c91e3862)] -> xpath: //input[@id='continue']]
+2022-01-24 19:01:443 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 19:01:01 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 19:01:360 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (e470ae8e089094c75287329ad0084f99)] -> id: login-button]
+2022-01-24 19:01:56 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:210 INFO  InventoryPage :44 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (e470ae8e089094c75287329ad0084f99)] -> link text: Sauce Labs Onesie]
+2022-01-24 19:01:351 INFO  InventoryItemPage :42 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (e470ae8e089094c75287329ad0084f99)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 19:01:506 INFO  InventoryItemPage :60 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (e470ae8e089094c75287329ad0084f99)] -> xpath: //button[@id='back-to-products']]
+2022-01-24 19:01:05 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 19:01:94 INFO  InventoryPage :49 - Select the costliest item:- [[ChromeDriver: chrome on WINDOWS (e470ae8e089094c75287329ad0084f99)] -> link text: Sauce Labs Fleece Jacket]
+2022-01-24 19:01:192 INFO  InventoryItemPage :47 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (e470ae8e089094c75287329ad0084f99)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-01-24 19:01:286 INFO  InventoryItemPage :65 - Click on shopping cart:- [[ChromeDriver: chrome on WINDOWS (e470ae8e089094c75287329ad0084f99)] -> xpath: //div[@id='shopping_cart_container']//a]
+2022-01-24 19:01:376 INFO  CartPage :27 - Click on check out button:- [[ChromeDriver: chrome on WINDOWS (e470ae8e089094c75287329ad0084f99)] -> xpath: //button[@id='checkout']]
+2022-01-24 19:01:511 INFO  CheckOutStepOnePage :38 - Send first name:- [[ChromeDriver: chrome on WINDOWS (e470ae8e089094c75287329ad0084f99)] -> css selector: #first-name]
+2022-01-24 19:01:638 INFO  CheckOutStepOnePage :44 - Send last name:- [[ChromeDriver: chrome on WINDOWS (e470ae8e089094c75287329ad0084f99)] -> css selector: #last-name]
+2022-01-24 19:01:757 INFO  CheckOutStepOnePage :50 - Send last name:- [[ChromeDriver: chrome on WINDOWS (e470ae8e089094c75287329ad0084f99)] -> css selector: #postal-code]
+2022-01-24 19:01:875 INFO  CheckOutStepOnePage :56 - Click on continue button:- [[ChromeDriver: chrome on WINDOWS (e470ae8e089094c75287329ad0084f99)] -> xpath: //input[@id='continue']]
+2022-01-24 19:01:07 INFO  CheckOutStepTwoPage :27 - Click on finish button:- [[ChromeDriver: chrome on WINDOWS (e470ae8e089094c75287329ad0084f99)] -> xpath: //button[@id='finish']]
+2022-01-24 19:01:255 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 19:01:872 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 20:01:328 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (69cc364f139a3119bdeeae6d36aedd8d)] -> id: login-button]
+2022-01-24 20:01:114 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 20:01:259 INFO  InventoryPage :44 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (69cc364f139a3119bdeeae6d36aedd8d)] -> link text: Sauce Labs Onesie]
+2022-01-24 20:01:425 INFO  InventoryItemPage :42 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (69cc364f139a3119bdeeae6d36aedd8d)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 20:01:678 INFO  InventoryItemPage :60 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (69cc364f139a3119bdeeae6d36aedd8d)] -> xpath: //button[@id='back-to-products']]
+2022-01-24 20:01:93 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 20:01:179 INFO  InventoryPage :49 - Select the costliest item:- [[ChromeDriver: chrome on WINDOWS (69cc364f139a3119bdeeae6d36aedd8d)] -> link text: Sauce Labs Fleece Jacket]
+2022-01-24 20:01:274 INFO  InventoryItemPage :47 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (69cc364f139a3119bdeeae6d36aedd8d)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-01-24 20:01:358 INFO  InventoryItemPage :65 - Click on shopping cart:- [[ChromeDriver: chrome on WINDOWS (69cc364f139a3119bdeeae6d36aedd8d)] -> xpath: //div[@id='shopping_cart_container']//a]
+2022-01-24 20:01:466 INFO  CartPage :27 - Click on check out button:- [[ChromeDriver: chrome on WINDOWS (69cc364f139a3119bdeeae6d36aedd8d)] -> xpath: //button[@id='checkout']]
+2022-01-24 20:01:604 INFO  CheckOutStepOnePage :38 - Send first name:- [[ChromeDriver: chrome on WINDOWS (69cc364f139a3119bdeeae6d36aedd8d)] -> css selector: #first-name]
+2022-01-24 20:01:742 INFO  CheckOutStepOnePage :44 - Send last name:- [[ChromeDriver: chrome on WINDOWS (69cc364f139a3119bdeeae6d36aedd8d)] -> css selector: #last-name]
+2022-01-24 20:01:876 INFO  CheckOutStepOnePage :50 - Send last name:- [[ChromeDriver: chrome on WINDOWS (69cc364f139a3119bdeeae6d36aedd8d)] -> css selector: #postal-code]
+2022-01-24 20:01:988 INFO  CheckOutStepOnePage :56 - Click on continue button:- [[ChromeDriver: chrome on WINDOWS (69cc364f139a3119bdeeae6d36aedd8d)] -> xpath: //input[@id='continue']]
+2022-01-24 20:01:96 INFO  CheckOutStepTwoPage :27 - Click on finish button:- [[ChromeDriver: chrome on WINDOWS (69cc364f139a3119bdeeae6d36aedd8d)] -> xpath: //button[@id='finish']]
+2022-01-24 20:01:455 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-24 20:01:242 INFO  HomePage :39 - Enter user name and password:- standard_usersecret_sauce
+2022-01-24 20:01:488 INFO  HomePage :44 - Click on login button:- [[ChromeDriver: chrome on WINDOWS (d5116c221beb3261dde191340d578c02)] -> id: login-button]
+2022-01-24 20:01:193 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 20:01:349 INFO  InventoryPage :44 - Select the cheapest item:- [[ChromeDriver: chrome on WINDOWS (d5116c221beb3261dde191340d578c02)] -> link text: Sauce Labs Onesie]
+2022-01-24 20:01:477 INFO  InventoryItemPage :42 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (d5116c221beb3261dde191340d578c02)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-01-24 20:01:650 INFO  InventoryItemPage :60 - Click on back to products:- [[ChromeDriver: chrome on WINDOWS (d5116c221beb3261dde191340d578c02)] -> xpath: //button[@id='back-to-products']]
+2022-01-24 20:01:142 INFO  InventoryPage :39 - Select from the drop down menu:- Price (high to low)
+2022-01-24 20:01:221 INFO  InventoryPage :49 - Select the costliest item:- [[ChromeDriver: chrome on WINDOWS (d5116c221beb3261dde191340d578c02)] -> link text: Sauce Labs Fleece Jacket]
+2022-01-24 20:01:327 INFO  InventoryItemPage :47 - Click on add to cart:- [[ChromeDriver: chrome on WINDOWS (d5116c221beb3261dde191340d578c02)] -> xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']]
+2022-01-24 20:01:418 INFO  InventoryItemPage :65 - Click on shopping cart:- [[ChromeDriver: chrome on WINDOWS (d5116c221beb3261dde191340d578c02)] -> xpath: //div[@id='shopping_cart_container']//a]
+2022-01-24 20:01:502 INFO  CartPage :27 - Click on check out button:- [[ChromeDriver: chrome on WINDOWS (d5116c221beb3261dde191340d578c02)] -> xpath: //button[@id='checkout']]
+2022-01-24 20:01:650 INFO  CheckOutStepOnePage :38 - Send first name:- [[ChromeDriver: chrome on WINDOWS (d5116c221beb3261dde191340d578c02)] -> css selector: #first-name]
+2022-01-24 20:01:784 INFO  CheckOutStepOnePage :44 - Send last name:- [[ChromeDriver: chrome on WINDOWS (d5116c221beb3261dde191340d578c02)] -> css selector: #last-name]
+2022-01-24 20:01:906 INFO  CheckOutStepOnePage :50 - Send last name:- [[ChromeDriver: chrome on WINDOWS (d5116c221beb3261dde191340d578c02)] -> css selector: #postal-code]
+2022-01-24 20:01:22 INFO  CheckOutStepOnePage :56 - Click on continue button:- [[ChromeDriver: chrome on WINDOWS (d5116c221beb3261dde191340d578c02)] -> xpath: //input[@id='continue']]
+2022-01-24 20:01:136 INFO  CheckOutStepTwoPage :27 - Click on finish button:- [[ChromeDriver: chrome on WINDOWS (d5116c221beb3261dde191340d578c02)] -> xpath: //button[@id='finish']]

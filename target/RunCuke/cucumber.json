@@ -1,0 +1,206 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6375424600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User navigates sauce demo page and completes the item purchase",
+        "description": "",
+        "id": "search-functionality;user-navigates-sauce-demo-page-and-completes-the-item-purchase",
+        "after": [
+          {
+            "result": {
+              "duration": 2129594900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 278842700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on sauce demo page",
+            "match": {
+              "location": "PurchaseSteps.iAmOnSauceDemoPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 435897700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I login with credential username \"standard_user\" and password \"secret_sauce\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "standard_user",
+                  "offset": 34
+                },
+                {
+                  "val": "secret_sauce",
+                  "offset": 63
+                }
+              ],
+              "location": "PurchaseSteps.iLoginWithCredentialUsernameAndPassword(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 239586800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "click on Login button",
+            "match": {
+              "location": "PurchaseSteps.clickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 700937800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "filter the products by \"Price (high to low)\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Price (high to low)",
+                  "offset": 24
+                }
+              ],
+              "location": "PurchaseSteps.filterTheProductsBy(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1130091100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "select the cheapest \u0026 costliest products and add to the basket",
+            "match": {
+              "location": "PurchaseSteps.selectTheCheapestCostliestProductsAndAddToTheBasket()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 86381300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "open shopping cart",
+            "match": {
+              "location": "PurchaseSteps.openShoppingCart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 81363400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "go to checkout",
+            "match": {
+              "location": "PurchaseSteps.goToCheckout()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 399292300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "enter details firstname \"Stephen\", lastName \"Hawkins\" and zipPostalCode \"CA6 9UR\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Stephen",
+                  "offset": 25
+                },
+                {
+                  "val": "Hawkins",
+                  "offset": 45
+                },
+                {
+                  "val": "CA6 9UR",
+                  "offset": 73
+                }
+              ],
+              "location": "PurchaseSteps.enterDetailsFirstnameLastNameAndZipPostalCode(String,String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 116788100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "click on continue button",
+            "match": {
+              "location": "PurchaseSteps.clickOnContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 105601800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "click on finish button",
+            "match": {
+              "location": "PurchaseSteps.clickOnFinishButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 78615100,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I should be able to see message order confirmation message",
+            "match": {
+              "location": "PurchaseSteps.iShouldBeAbleToSeeMessageOrderConfirmationMessage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Search functionality",
+    "description": "As a user I want to purchase cheapest and the costliest product from the sauce demo after sorting the products by\r\nHighest to Low filter.",
+    "id": "search-functionality",
+    "keyword": "Feature",
+    "uri": "purchase.feature"
+  }
+]
